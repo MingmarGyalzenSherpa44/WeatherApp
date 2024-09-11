@@ -2,13 +2,12 @@
 
 ## Overview
 
-This is a weather application that provides current weather information for a specified location. The app fetches weather data using the Weather API and displays it in a user-friendly interface. It includes features such as location search, weather details, and a responsive layout.
+This is a weather application that provides current weather information for a specified location. The app fetches weather data using the Weather API and displays it in a user-friendly interface. It includes features such as location search, weather details.
 
 ## Features
 
 - **Current Weather**: Displays temperature, weather condition, wind speed, humidity, and cloud cover.
 - **Location Search and AutoSearch**: Search for weather information by entering a city name.
-- **Error Handling**: Handle errors gracefully with React-toastify
 
 ## Technologies Used
 
